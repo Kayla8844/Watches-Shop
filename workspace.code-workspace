@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "D:\\程式語言\\作品集\\git"
+		},
+		{
+			"name": "Watches-Shop",
+			"path": "D:\\程式語言\\作品集\\git\\Watches-Shop"
+		},
+		{
+			"path": "D:\\程式語言\\彭彭"
+		},
+		{
+			"path": "D:\\程式語言\\作品集\\5_Watches_shop\\3_Watches_shop_vuex"
+		},
+		{
+			"path": "D:\\程式語言\\作品集\\範例\\plantshop-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "git"
+	}
+}
